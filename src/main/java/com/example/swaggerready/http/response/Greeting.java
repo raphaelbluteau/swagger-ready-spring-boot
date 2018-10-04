@@ -1,4 +1,4 @@
-package com.example.swaggerready.hello;
+package com.example.swaggerready.http.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

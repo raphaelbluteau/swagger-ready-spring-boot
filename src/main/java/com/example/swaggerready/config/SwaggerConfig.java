@@ -1,4 +1,4 @@
-package com.example.swaggerready;
+package com.example.swaggerready.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
