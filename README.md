@@ -1,5 +1,6 @@
 # Swagger ready Spring Boot application
 
+[![Build Status](https://travis-ci.com/raphaelbluteau/swagger-ready-spring-boot.svg?branch=master)](https://travis-ci.com/raphaelbluteau/swagger-ready-spring-boot)
 [![BCH compliance](https://bettercodehub.com/edge/badge/raphaelbluteau/swagger-ready-spring-boot?branch=master)](https://bettercodehub.com/)
 
 Projeto de exemplo com utilização de [springfox](https://github.com/springfox/springfox) para documentação de API com Swagger.
