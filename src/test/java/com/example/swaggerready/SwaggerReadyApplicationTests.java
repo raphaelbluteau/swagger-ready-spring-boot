@@ -11,6 +11,7 @@ public class SwaggerReadyApplicationTests {
 
   @Test
   public void contextLoads() {
+    SwaggerReadyApplication.main(new String[]{});
   }
 
 }
