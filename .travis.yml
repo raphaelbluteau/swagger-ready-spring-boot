@@ -3,3 +3,6 @@ jdk: oraclejdk8
 
 script:
 - ./gradlew build
+
+after_success:
+- ./gradlew jacocoTestReport coveralls
