@@ -6,6 +6,8 @@
 
 This sample project uses [springfox](https://github.com/springfox/springfox) to document a simple API.
 
+Take a look at [this tutorial](https://raphaelcarvalho.dev/2019/03/14/spring-boot-swagger-documentando-sua-api-automaticamente/) that I wrote using this project, feel free to reach me.
+
 After building and running the application, you can access the Swagger UI at:
 
 ```
