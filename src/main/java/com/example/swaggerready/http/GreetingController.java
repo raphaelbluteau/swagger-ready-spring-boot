@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@Api(value = "Greeting", description = "Greeting people")
+@Api(value = "Greeting")
 public class GreetingController {
 
   @ApiOperation(value = "Greets the world or Niteroi")
